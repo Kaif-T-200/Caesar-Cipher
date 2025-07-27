@@ -29,7 +29,7 @@ python main.py
 ## 🧠 How It Works
 The Caesar Cipher shifts each letter in the message by a specified number of positions through the alphabet.
 
-For example, with a shift of 3:
+**For example, with a shift of 3:**
 
 A → D
 
@@ -56,4 +56,8 @@ This project is licensed under the [License: MIT](https://github.com/Kaif-T-200/
 
 Feel free to use, modify, and distribute it for educational or personal use.
 
-## Made with ❤️ in Python
+## 👤 Author
+
+[LinkedIn](https://www.linkedin.com/in/kaif-tarasgar-0b5425326/) • [Twitter/X](https://x.com/Kaif_T_200)
+
+# Made with ❤️ by Kaif Tarasgar in Python
